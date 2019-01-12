@@ -18,7 +18,7 @@ If you are using the code/model/data provided here in a publication, please cons
       title={Efficient module based single image super resolution for multiple problems},
       author={Park, Dongwon and Kim, Kwanyoung and Chun, Se Young},
       booktitle={The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
-      volume={5},
+      pages={995-1003},
       year={2018}
     }  
     
@@ -45,8 +45,6 @@ This code is based on EDSR. Thanks to the contributors of EDSR.
       title={Enhanced deep residual networks for single image super-resolution},
       author={Lim, Bee and Son, Sanghyun and Kim, Heewon and Nah, Seungjun and Lee, Kyoung Mu},
       booktitle={The IEEE conference on computer vision and pattern recognition (CVPR) workshops},
-      volume={1},
-      number={2},
-      pages={4},
+      pages={1132-1140},
       year={2017}
     }
