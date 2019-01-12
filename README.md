@@ -8,7 +8,7 @@ In this article, we propose efficient module based single image SR networks
 EMBSR allowed us to reduce training time with effectively deeper networks, to use modular ensemble for improved
 performance, and to separate subproblems for better performance. We also proposed EDSR-PP, an improved version
 of previous ESDR by incorporating pyramid pooling so that global as well as local context information can be
-utilized. Our proposed EDSR-PP achieved honorable mentina award for Track1: classic Bicubic X8 in NTIRE 2018 SR challenge.
+utilized. Our proposed EDSR-PP achieved honorable mention award for Track1: classic Bicubic X8 in NTIRE 2018 SR challenge.
 
 ### Citations
 
